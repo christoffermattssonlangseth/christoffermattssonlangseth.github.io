@@ -1,0 +1,9 @@
+title: "Christoffer Mattsson Langseth"
+description: "Spatial omics, mitochondria, neuroinflammation, exercise."
+theme: minima  # simple built-in theme
+markdown: kramdown
+
+# optional: navigation
+header_pages:
+  - index.md
+  - cv.md
