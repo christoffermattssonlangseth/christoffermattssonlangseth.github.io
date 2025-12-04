@@ -83,5 +83,6 @@ Manno, G.L., Siletti, K., Furlan, A., Gyllborg, D., Vinsland, E., Albiach, A.M.,
 Gyllborg, D., **Langseth, C.M.**, Qian, X., Choi, E., Salas, S.M., Hilscher, M.M., Lein, E.S., and Nilsson, M. (2020). *Hybridization-based in situ sequencing (HybISS) for spatially resolved transcriptomics in human and mouse brain tissue.* **Nucleic Acids Res.** https://doi.org/10.1093/nar/gkaa792.
 
 ^ These authors contributed equally.
+
 ---
 
