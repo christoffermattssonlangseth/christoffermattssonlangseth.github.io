@@ -9,7 +9,7 @@
 ---
 
 ## Summary
-Computational biologist specializing in **single-cell omics**, **spatial transcriptomics**, and **image-based analysis**. Experienced in designing and executing large-scale omics projects, with publications in *Cell*, *Nature Methods*, *NAR*, and others. Skilled in Python-, MATLAB-, and R-based data analysis. 
+Computational biologist specializing in **single-cell omics**, **spatial transcriptomics**, and **image-based analysis**. Experienced in designing and executing large-scale omics projects, with publications in *Cell*, *Nature Methods*, *NAR*, and others. 
 
 ---
 
@@ -32,7 +32,7 @@ My research focuses on applying and developing **spatial omics technologies** to
 ## Professional Experience
 
 ### PostDoc in Castelo-Branco lab (Karolinska Institutet)
-Computational biologist in the Castelo-Branco lab at Karolinska Institutet, specializing in neuroinflammation and spatial omics. I’m particularly interested in how spatially resolved technologies can uncover metabolic and mitochondrial dynamics within inflamed CNS tissue.
+Specializing on neuroinflammation and spatial omics. I’m particularly interested in how spatially resolved technologies can uncover metabolic and mitochondrial dynamics within inflamed CNS tissue. Funded by Hjärnfonden. 
 
 ### Co-Founder & CTO — Spatialist
 - Provide consulting services in single-cell and spatial omics for academia and industry.  
@@ -45,27 +45,7 @@ Computational biologist in the Castelo-Branco lab at Karolinska Institutet, spec
 
 ---
 
-## Key Skills
-
-### Technical Skills
-- Spatial transcriptomics  
-- Single-cell data analysis (Scanpy, Seurat, Squidpy)  
-- Image analysis (MATLAB, Python)  
-- Machine learning & deep learning (TensorFlow, PyTorch)  
-- Workflow engineering for large omics datasets  
-- Data visualization and integration  
-
-### Soft Skills
-- Project management  
-- Scientific communication  
-- Collaboration across disciplines  
-- Problem-solving  
-
----
-
 ## Academic publications
-## Academic publications
-
 Gyllborg, D., **Langseth, C.M.**, Qian, X., Choi, E., Salas, S.M., Hilscher, M.M., Lein, E.S., and Nilsson, M. (2020).  
 Hybridization-based in situ sequencing (HybISS) for spatially resolved transcriptomics in human and mouse brain tissue. Nucleic Acids Res, gkaa792-.  
 https://doi.org/10.1093/nar/gkaa792.
@@ -78,7 +58,7 @@ Hilscher, M.M., **Langseth, C.M.**, Kukanja, P., Yokota, C., Nilsson, M., and Ca
 Spatial and temporal heterogeneity in the lineage progression of fine oligodendrocyte subtypes. BMC Biol. 20, 122.  
 https://doi.org/10.1186/s12915-022-01325-z.
 
-**Langseth, C. M.***, Kukanja, P*., Rodríguez-Kirby, L.A.R., Agirre, E., Zheng, C., Raman, A., Yokota, C., Avenel, C., Ti-klová, K., Guerreiro-Cacais, A.O., et al. (2024).  
+**Langseth, C. M.**^, Kukanja, P^., Rodríguez-Kirby, L.A.R., Agirre, E., Zheng, C., Raman, A., Yokota, C., Avenel, C., Ti-klová, K., Guerreiro-Cacais, A.O., et al. (2024).  
 Cellular architecture of evolving neuroinflammatory lesions and multiple sclerosis pathology. Cell 187, 1990-2009.e19.  
 https://doi.org/10.1016/j.cell.2024.02.030.
 
@@ -122,18 +102,11 @@ Jonghe, J.D., Opzoomer, J.W., Vilas-Zornoza, A., Nilges, B.S., Crane, P., Vicari
 scTrends: A living review of commercial single-cell and spatial ’omic technologies. Cell Genom. 4, 100723.  
 https://doi.org/10.1016/j.xgen.2024.100723.
 
-Lee, H., **Langseth, C.M.***, Salas, S.M.*, Sariyar, S.*, Metousis, A., Rueda-Alaña, E., Bekiari, C., Lundberg, E., García-Moreno, F., Grillo, M., et al. (2024).  
+Lee, H., **Langseth, C.M.**^, Salas, S.M.^, Sariyar, S.^, Metousis, A., Rueda-Alaña, E., Bekiari, C., Lundberg, E., García-Moreno, F., Grillo, M., et al. (2024).  
 Open-source, high-throughput targeted in situ transcriptomics for developmental and tissue biology. Development 151.  
 https://doi.org/10.1242/dev.202448.
 
-\* These authors contributed equally.
+\^ These authors contributed equally.
 
 ---
 
-## Additional Information
-More details available upon request, including:  
-- Teaching and supervision  
-- Conference presentations  
-- Technical workshops  
-- Consulting portfolio  
-- Open-source software contributions  
