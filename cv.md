@@ -25,7 +25,7 @@ Computational biologist specializing in **single-cell omics**, **spatial transcr
 ## Research Summary
 My research focuses on leveraging multi-omics—particularly spatially resolved transcriptomics—to unravel metabolic and mitochondrial alterations that arise during disease. I use high-resolution spatial omics to dissect cellular, molecular, and metabolic states within complex tissues, including experimental models of neuroinflammation and human tissues. Together, these approaches aim to clarify how disrupted energy metabolism and mitochondrial dysfunction shape disease progression and tissue pathology.
 
----
+--- 
 
 ## Professional Experience
 
