@@ -1,3 +1,4 @@
+# Curriculum vitae
 ## Personal Information
 - **Name:** Christoffer Mattsson Langseth  
 - **Email:** christoffer.langseth@gmail.com  
@@ -63,8 +64,6 @@ Bruggen, D. van, Pohl, F., **Langseth, C.M.**, Kukanja, P., Lee, H., Albiach, A.
 
 Li, X., Andrusivova, Z., Czarnewski, P., **Langseth, C.M.**, Andersson, A., Liu, Y., Gyllborg, D., Braun, E., Larsson, L., Hu, L., et al. (2023). Profiling spatiotemporal gene expression of the developing human spinal cord and implications for ependymoma origin. Nat Neurosci, 1–11. https://doi.org/10.1038/s41593-023-01312-9.
 
-Salas, S.M., Czarnewski, P., Kuemmerle, L.B., Helgadottir, S., **Langseth, C.M.**, Tismeyer, S., Avenel, C., Rehman, H., Tiklova, K., Andersson, A., et al. (2023). Optimizing Xenium In Situ data utility by quality assessment and best practice analysis workflows. Biorxiv, 2023.02.13.528102. https://doi.org/10.1101/2023.02.13.528102.
-
 Long, B., Miller, J., and Consortium, T.S., **Langseth, C.M.** (Contributor). (2023). SpaceTx: A Roadmap for Benchmarking Spatial Transcriptomics Exploration of the Brain. arXiv. https://doi.org/10.48550/arxiv.2301.08436.
 
 Zhang, Y., Miller, J.A., Park, J., Lelieveldt, B.P., Long, B., Abdelaal, T., Aevermann, B.D., Biancalani, T., Comiter, C., Dzyubachyk, O., et al. (2023). Reference-based cell type matching of in situ image-based spatial transcriptomics data on primary visual cortex of mouse brain. Sci. Rep. 13, 9567. https://doi.org/10.1038/s41598-023-36638-8.
@@ -74,6 +73,8 @@ Wernersson, E., Gelali, E., Girelli, G., Wang, S., Castillo, D., **Langseth, C.M
 Jonghe, J.D., Opzoomer, J.W., Vilas-Zornoza, A., Nilges, B.S., Crane, P., Vicari, M., Lee, H., Lara-Astiaso, D., Gross, T., Morf, J., et al. (2024). scTrends: A living review of commercial single-cell and spatial ’omic technologies. Cell Genom. 4, 100723. https://doi.org/10.1016/j.xgen.2024.100723.
 
 Lee, H., **Langseth, C.M.**^, Salas, S.M.^, Sariyar, S.^, Metousis, A., Rueda-Alaña, E., Bekiari, C., Lundberg, E., García-Moreno, F., Grillo, M., et al. (2024). Open-source, high-throughput targeted in situ transcriptomics for developmental and tissue biology. Development 151. https://doi.org/10.1242/dev.202448.
+
+Salas, S.M., Kuemmerle, L.B., **Langseth, C.M.**, Tismeyer, S., Avenel, C., Hu, T., Rehman, H., Grillo, M., Czarnewski, P., Helgadottir, S., et al. (2025). Optimizing Xenium In Situ data utility by quality assessment and best-practice analysis workflows. Nat. Methods, 1–11. https://doi.org/10.1038/s41592-025-02617-2.
 
 ^ These authors contributed equally.
 
