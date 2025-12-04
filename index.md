@@ -34,5 +34,3 @@ I aim to bridge **experimental neuroimmunology**, **systems metabolism**, and **
 
 - **GitHub profile (code, pipelines, figures):**  
   <https://github.com/christoffermattssonlangseth>
-
-If you'd like, I can also expand this into a full “About Me” page or add sections like *Publications*, *Projects*, *News*, or *CV*.
