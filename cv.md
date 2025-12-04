@@ -1,5 +1,3 @@
-# Christoffer Mattsson Langseth — Curriculum Vitae
-
 ## Personal Information
 - **Name:** Christoffer Mattsson Langseth  
 - **Email:** christoffer.langseth@gmail.com  
