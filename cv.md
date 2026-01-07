@@ -47,6 +47,8 @@ Specializing on neuroinflammation and spatial omics. Funded by Hjärnfonden.
 ## Academic publications
 
 ### 2025
+**Langseth, C. M.** Cells in Time and Space: Beyond Comprehensive Cellular Atlases towards a Deeper Understanding of Disease. (2025).  
+
 Salas, S.M., Kuemmerle, L.B., **Langseth, C.M.**, Tismeyer, S., Avenel, C., Hu, T., Rehman, H., Grillo, M., Czarnewski, P., Helgadottir, S., et al. (2025). *Optimizing Xenium In Situ data utility by quality assessment and best-practice analysis workflows.* **Nat. Methods**, 1–11. https://doi.org/10.1038/s41592-025-02617-2.
 
 ### 2024
