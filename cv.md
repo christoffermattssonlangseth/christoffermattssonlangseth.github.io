@@ -1,50 +1,39 @@
-# Curriculum vitae
-## Personal Information
-- **Name:** Christoffer Mattsson Langseth  
-- **Email:** christoffer.langseth@gmail.com  
-- **Phone:** +46 709 105 057  
-- **Location:** Hammarby Allé 9, Stockholm, Sweden  
+# Christoffer Mattsson Langseth
+
+**Computational Biologist** · Stockholm, Sweden
+christoffer.langseth@gmail.com · +46 709 105 057
 
 ---
 
-## Summary
-Computational biologist specializing in **single-cell omics**, **spatial transcriptomics**, and **image-based analysis**. Experienced in designing and executing large-scale omics projects, with publications in *Cell*, *Nature Methods*, *NAR*, and others. 
+## About
+
+Computational biologist specializing in single-cell omics, spatial transcriptomics, and image-based analysis. My research uses high-resolution spatial omics to dissect cellular and molecular states within complex tissues, with a focus on metabolic and mitochondrial alterations in neuroinflammation and disease. Published in *Cell*, *Nature*, *Nature Methods*, and other leading journals.
+
+---
+
+## Experience
+
+**Postdoctoral Researcher** · Castelo-Branco Lab, Karolinska Institutet
+Neuroinflammation and spatial omics. Funded by Hjärnfonden.
+
+**Co-Founder & CTO** · Spatialist
+Consulting services in single-cell and spatial omics for academia and industry. Development of customized computational workflows for spatial and single-cell data.
+
+**Graduate Researcher** · Stockholm University
+Developed spatial omics methodologies and analysis pipelines for ISS and spatial transcriptomics. Led integrative studies on human cortical architecture and CNS neuroinflammation.
 
 ---
 
 ## Education
 
-### PhD in Biochemistry (Bioinformatics Track)  
-**Stockholm University** 
-**Thesis:** *Cells in Time and Space: Beyond Comprehensive Cellular Atlases Towards a Deeper Understanding of Disease*
+**PhD in Biochemistry** (Bioinformatics) · Stockholm University
+Thesis: *Cells in Time and Space: Beyond Comprehensive Cellular Atlases Towards a Deeper Understanding of Disease*
 
-### MSc in Biology (Cell & Molecular Biology)  
-**Uppsala University**
+**MSc in Biology** (Cell & Molecular Biology) · Uppsala University
 
 ---
 
-## Research Summary
-My research focuses on leveraging multi-omics—particularly spatially resolved transcriptomics—to unravel metabolic and mitochondrial alterations that arise during disease. I use high-resolution spatial omics to dissect cellular, molecular, and metabolic states within complex tissues, including experimental models of neuroinflammation and human tissues. Together, these approaches aim to clarify how disrupted energy metabolism and mitochondrial dysfunction shape disease progression and tissue pathology.
-
---- 
-
-## Professional Experience
-
-### PostDoc in Castelo-Branco lab (Karolinska Institutet)
-Specializing on neuroinflammation and spatial omics. Funded by Hjärnfonden. 
-
-### Co-Founder & CTO — Spatialist
-- Provide consulting services in single-cell and spatial omics for academia and industry.  
-- Develop customized pipelines and computational workflows for spatial and single-cell data.
-
-### Researcher / Graduate Student — Stockholm University
-- Developed spatial omics methodologies and analysis pipelines for ISS and spatial transcriptomics.  
-- Led integrative studies on human cortical architecture and CNS neuroinflammation.  
-- Published in high-impact journals including *Cell*, *Nature Methods*, *NAR*, *Development*, and *Dev Cell*.
-
----
-
-## Academic publications
+## Publications
 
 ### 2025
 Salas, S.M., Kuemmerle, L.B., **Langseth, C.M.**, Tismeyer, S., Avenel, C., Hu, T., Rehman, H., Grillo, M., Czarnewski, P., Helgadottir, S., et al. (2025). *Optimizing Xenium In Situ data utility by quality assessment and best-practice analysis workflows.* **Nat. Methods**, 1–11. https://doi.org/10.1038/s41592-025-02617-2.
@@ -82,7 +71,4 @@ Manno, G.L., Siletti, K., Furlan, A., Gyllborg, D., Vinsland, E., Albiach, A.M.,
 ### 2020
 Gyllborg, D., **Langseth, C.M.**, Qian, X., Choi, E., Salas, S.M., Hilscher, M.M., Lein, E.S., and Nilsson, M. (2020). *Hybridization-based in situ sequencing (HybISS) for spatially resolved transcriptomics in human and mouse brain tissue.* **Nucleic Acids Res.** https://doi.org/10.1093/nar/gkaa792.
 
-^ These authors contributed equally.
-
----
-
+*^ Equal contribution*
