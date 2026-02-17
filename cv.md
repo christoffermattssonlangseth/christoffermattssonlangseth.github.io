@@ -41,7 +41,6 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 * **Biochemistry I (KB2003):** Teaching Assistant for laboratory exercises and delivered lectures on fundamental biochemical molecules and reactions.
 
 ---
----
 
 ## Education
 * **PhD, Biochemistry (Bioinformatics)** · Stockholm University (2023)
