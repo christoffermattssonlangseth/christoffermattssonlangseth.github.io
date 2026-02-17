@@ -13,9 +13,7 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 
 ### Postdoctoral Researcher | Karolinska Institutet (Castelo-Branco Lab)
 *2024 – Present*
-* **Grant Recipient:** Awarded the **Hjärnfonden Postdoctoral Fellowship (2025/2026)**—a **3,000,000 SEK** grant to investigate molecular mechanisms in neuroinflammation.
-* Developing high-resolution spatial transcriptomics pipelines to map cellular transitions in Multiple Sclerosis (MS) pathology.
-* Engineering integrated computational frameworks for large-scale multi-modal spatial data.
+* **Grant Recipient:** Awarded the **Hjärnfonden Postdoctoral Fellowship (2025/2026)**—a **3,000,000 SEK** grant to investigate molecular mechanisms in neuroinflammation, with a particular focus on metabolic and mitochondrial alterations.
 
 ### Co-Founder & CTO | Spatialist
 *2023 – Present*
