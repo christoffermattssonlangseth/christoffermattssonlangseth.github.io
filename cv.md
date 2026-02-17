@@ -14,6 +14,7 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 ### Postdoctoral Researcher | Karolinska Institutet (Castelo-Branco Lab)
 *2024 – Present*
 * **Grant Recipient:** Awarded the **Hjärnfonden Postdoctoral Fellowship (2025/2026)**—a **3,000,000 SEK** grant to investigate molecular mechanisms in neuroinflammation, with a particular focus on metabolic and mitochondrial alterations.
+* Teaching the first year Medical students in the course Basic Science 
 
 ### Co-Founder & CTO | Spatialist
 *2023 – Present*
@@ -25,6 +26,21 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 * Developed spatial omics methodologies (HybISS) and analysis pipelines.
 * Led integrative studies on human cortical architecture and CNS neuroinflammation.
 
+---
+## Teaching & Mentorship
+
+### Postdoctoral Teaching | Karolinska Institutet
+* **Biochemistry (1BI051, Biomedicine):** Organized and led advanced seminars on **Glycolysis & Gluconeogenesis** and **Glycogen Metabolism**.
+
+* **Basic Science 2 (2LA001, Medicine):** Tutored cell biology exercises and mentored medical students in scientific communication; served as a **formal examiner** for poster presentations.
+
+### Educational Outreach
+* **Inspirational Lecture Series:** Annual guest lecturer for high school students in medical specialization tracks, focusing on career paths in medical research and computational biology (Åva Gymnasium).
+
+### PhD Teaching | Stockholm University
+* **Biochemistry I (KB2003):** Teaching Assistant for laboratory exercises and delivered lectures on fundamental biochemical molecules and reactions.
+
+---
 ---
 
 ## Education
