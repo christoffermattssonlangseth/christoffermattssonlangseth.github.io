@@ -51,7 +51,7 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 ## Publications
 
 **2025**
-* Salas, S.M.\*, Kuemmerle, L.B.\*, **Langseth, C.M.\***, et al. (2025). **Optimizing Xenium In Situ data utility by quality assessment and best-practice analysis workflows.** *Nat. Methods*. [doi:10.1038/s41592-025-02617-2]
+* Salas, S.M., Kuemmerle, L.B.\*, **Langseth, C.M.\***, et al. (2025). **Optimizing Xenium In Situ data utility by quality assessment and best-practice analysis workflows.** *Nat. Methods*. [doi:10.1038/s41592-025-02617-2]
 
 **2024**
 * **Langseth, C.M.\***, Kukanja, P.\*, et al. (2024). **Cellular architecture of evolving neuroinflammatory lesions and multiple sclerosis pathology.** *Cell* 187, 1990–2009.e19. [doi:10.1016/j.cell.2024.02.030]
