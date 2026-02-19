@@ -75,6 +75,6 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 * Manno, G.L., et al. [incl. **Langseth, C.M.**] (2021). **Molecular architecture of the developing mouse brain.** *Nature* 596, 1–5.
 
 **2020**
-* Gyllborg, D.\*, **Langseth, C.M.\***, et al. (2020). **Hybridization-based in situ sequencing (HybISS) for spatially resolved transcriptomics.** *Nucleic Acids Res.* [doi:10.1093/nar/gkaa792]
+* Gyllborg, D., **Langseth, C.M.**, et al. (2020). **Hybridization-based in situ sequencing (HybISS) for spatially resolved transcriptomics.** *Nucleic Acids Res.* [doi:10.1093/nar/gkaa792]
 
 `* Equal contribution`
