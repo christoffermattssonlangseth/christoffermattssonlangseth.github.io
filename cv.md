@@ -49,6 +49,8 @@ Computational biologist specializing in single-cell omics, spatial transcriptomi
 ---
 
 ## Publications
+**2026**
+**Langseth, C.M.**, Hervé, B., Piechaczyk, H. P., Lor, Y. K., Sun, T. & Castelo-Branco, G. KaroSpace: a rapid-access framework for interactive exploration of multi-sample spatial omics data. (2026). doi:10.64898/2026.03.10.710790
 
 **2025**
 * Salas, S.M., Kuemmerle, L.B.\*, **Langseth, C.M.\***, et al. (2025). **Optimizing Xenium In Situ data utility by quality assessment and best-practice analysis workflows.** *Nat. Methods*. [doi:10.1038/s41592-025-02617-2]
