@@ -7,3 +7,6 @@ markdown: kramdown
 header_pages:
   - index.md
   - cv.md
+# Google Search Console (verifies the site for the Lunta app's Google sign-in)
+webmaster_verifications:
+  google: bxm84QAbweXseBKDcJlfrQlISgCQprSe6JPN4gG6qeU
